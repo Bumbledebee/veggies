@@ -4,17 +4,17 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>Hangman Game</title>
-  <link rel="stylesheet" href="style.css">
+  <link href="<%= url('/style.css') %>" rel="stylesheet" type="text/css" />
 </head>
 <body>
   <div class="top input wrapper">
     <h1 >Hangman Game</h1>
-    <h5> Enter a lowercase letter and hit Enter.</h5>
+    <h3> Enter a lowercase letter and hit Enter.</h3>
     <form method="get" action="/check">
     <input type="text" placeholder"Your guess" id="guess"  name="guess" type="letter"/>
     <input type="submit" value"Go">
 </form>
-    <h4>You have <%=@guesses%> Guesses left</h4>
+    <h4><%=@guesses%></h4>
   </div>
   <div class="wrapper">
       <a href="#" class="button-one"></a>
