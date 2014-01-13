@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Hangman Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="top input wrapper">
+    <h1 >Hangman Game</h1>
+    <h5> Enter a lowercase letter and hit Enter.</h5>
+    <form method="get" action="/check">
+    <input type="text" placeholder"Your guess" id="guess"  name="guess" type="letter"/>
+    <input type="submit" value"Go">
+</form>
+    <h4>You have <%=@guesses%> Guesses left</h4>
+  </div>
+  <div class="wrapper">
+      <a href="#" class="button-one"></a>
+  </div>
+
+</body>
+</html>
+
+
+
+
