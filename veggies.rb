@@ -9,7 +9,6 @@ end
 post '/' do
   @guess = params[:guess]
   @words = ['Carrots', 'Potatoes', 'Sellery', 'Eggplants', 'Spinage', 'Bellpeppers']
-  binding.remote_pry
   if @words.include?(@guess)
     flash[:info] = "Your guess (#{@guess}) was correct"
   else
