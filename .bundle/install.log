@@ -10,3 +10,14 @@ I, [2014-01-14T15:47:39.964820 #85550]  INFO -- : 0:  tilt (1.4.1) from /Users/d
 I, [2014-01-14T15:47:39.965332 #85550]  INFO -- : 0:  sinatra (1.4.4) from /Users/deborablass/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/sinatra-1.4.4.gemspec
 I, [2014-01-14T15:47:40.791782 #85550]  INFO -- : 0:  sinatra-flash (0.3.0) from /Users/deborablass/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/sinatra-flash-0.3.0.gemspec
 I, [2014-01-14T15:47:40.792492 #85550]  INFO -- : 0:  bundler (1.5.1) from /Users/deborablass/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
+I, [2014-01-14T16:00:23.837568 #85723]  INFO -- : 0:  coderay (1.1.0) from /Users/deborablass/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-01-14T16:00:23.838080 #85723]  INFO -- : 0:  method_source (0.8.2) from /Users/deborablass/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2014-01-14T16:00:23.838432 #85723]  INFO -- : 0:  slop (3.4.7) from /Users/deborablass/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/slop-3.4.7.gemspec
+I, [2014-01-14T16:00:23.838767 #85723]  INFO -- : 0:  pry (0.9.12.4) from /Users/deborablass/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/pry-0.9.12.4.gemspec
+I, [2014-01-14T16:00:24.563814 #85723]  INFO -- : 0:  pry-remote (0.1.7) from /Users/deborablass/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/pry-remote-0.1.7.gemspec
+I, [2014-01-14T16:00:24.564260 #85723]  INFO -- : 0:  rack (1.5.2) from /Users/deborablass/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-01-14T16:00:24.564581 #85723]  INFO -- : 0:  rack-protection (1.5.1) from /Users/deborablass/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/rack-protection-1.5.1.gemspec
+I, [2014-01-14T16:00:24.564880 #85723]  INFO -- : 0:  tilt (1.4.1) from /Users/deborablass/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-01-14T16:00:24.565227 #85723]  INFO -- : 0:  sinatra (1.4.4) from /Users/deborablass/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-14T16:00:24.565511 #85723]  INFO -- : 0:  sinatra-flash (0.3.0) from /Users/deborablass/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/sinatra-flash-0.3.0.gemspec
+I, [2014-01-14T16:00:24.565764 #85723]  INFO -- : 0:  bundler (1.5.1) from /Users/deborablass/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
