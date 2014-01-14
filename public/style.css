@@ -45,14 +45,6 @@ li {
   background-color: yellow;
 }
 
-.red {
-  color: red;
-}
-
-.green {
-  color: green;
-}
-
 .wrapper, h5{
   max-width: 300px;
   margin-left: auto;
@@ -71,5 +63,6 @@ li {
 
 #guesses {
   background-color: white;
+  color: black;
 }
 

@@ -10,16 +10,17 @@
 <body>
   <div class="top input wrapper">
     <h1 >Hangman Game</h1>
-    <h3> Enter a lowercase letter and hit Enter.</h3>
-    <form method="get" action="/check">
+    <h3> Enter the plural name of a vegetable and hit Submit.</h3>
+    <form method="post">
     <input type="text" placeholder"Your guess" id="guess"  name="guess" type="letter"/>
     <input type="submit" value"Go">
 </form>
   </div>
-    <ul class="countdown wrapper">
+    <ul class="wrapper countdown"><h4> <%= flash[:info] %> </h4>
+      <div id='flash'>
+        <div class='flash info'></div>
+      </div>
     </ul>
-    <ul class="wrapper"> Your guesses:</ul>
-    <ul class="wrapper" id="guesses"></ul>
 </body>
 </html>
 
