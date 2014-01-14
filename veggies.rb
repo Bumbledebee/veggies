@@ -9,10 +9,12 @@ end
 post '/' do
   @guess = params[:guess]
   @words = ['Carrots', 'Potatoes', 'Sellery', 'Eggplants', 'Spinage', 'Bellpeppers']
-  if @words.include?(@guess)
-    flash[:info] = "Your guess (#{@guess}) was correct"
+  @word = @words.sample
+  @letters = @word.split('')
+  if @word == @guess
+    flash[:info] = "Your guess (#{@guess}) was correct. You won."
   else
-    flash[:info] = "Your guess (#{@guess}) was not correct"
+    flash[:info] = "Your guess (#{@guess}) was not correct. A random letter of the word is (#{@word.sample})"
   end
 
   redirect '/'
