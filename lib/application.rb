@@ -1,35 +1,26 @@
 # require 'erb'
 
 class Application
+  attr_reader :year
+
   def initialize(year)
-    @year = year
+    @year = year.to_i
   end
 
   def chinese_year
-    if @year%12 == 0
-      zodiac = "Monkey"
-    elsif @year%12 == 1
-      zodiac = "Rooster"
-    elsif @year%12 == 2
-      zodiac = "Dog"
-    elsif @year%12 == 3
-      zodiac = "Pig"
-    elsif @year%12 == 4
-      zodiac = "Rat"
-    elsif @year%12 == 5
-      zodiac = "Ox"
-    elsif @year%12 == 6
-      zodiac = "Tiger"
-    elsif @year%12 == 7
-      zodiac = "Rabbit"
-    elsif @year%12 == 8
-      zodiac = "Dragon"
-    elsif @year%12 == 9
-      zodiac = "Snake"
-    elsif @year%12 == 10
-      zodiac = "Horse"
-    elsif @year%12 == 11
-      zodiac = "Goat"
+    case (@year%12)
+    when 0 then "Monkey"
+    when 1 then "Rooster"
+    when 2 then "Dog"
+    when 3 then "Pig"
+    when 4 then "Rat"
+    when 5 then "Ox"
+    when 6 then "Tiger"
+    when 7 then "Rabbit"
+    when 8 then "Dragon"
+    when 9 then "Snake"
+    when 10 then "Horse"
+    when 11 then "Goat"
     end
   end
 

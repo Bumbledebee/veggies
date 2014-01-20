@@ -31,3 +31,12 @@ I, [2014-01-17T11:23:12.821914 #33927]  INFO -- : 0:  rack-protection (1.5.1) fr
 I, [2014-01-17T11:23:12.822573 #33927]  INFO -- : 0:  tilt (1.4.1) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@global/specifications/tilt-1.4.1.gemspec
 I, [2014-01-17T11:23:12.822972 #33927]  INFO -- : 0:  sinatra (1.4.4) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@veggies/specifications/sinatra-1.4.4.gemspec
 I, [2014-01-17T11:23:12.823282 #33927]  INFO -- : 0:  bundler (1.5.1) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-19T20:41:17.117052 #49068]  INFO -- : 0:  coderay (1.1.0) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@veggies/specifications/coderay-1.1.0.gemspec
+I, [2014-01-19T20:41:17.117867 #49068]  INFO -- : 0:  method_source (0.8.2) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@veggies/specifications/method_source-0.8.2.gemspec
+I, [2014-01-19T20:41:17.118250 #49068]  INFO -- : 0:  slop (3.4.7) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@veggies/specifications/slop-3.4.7.gemspec
+I, [2014-01-19T20:41:17.118584 #49068]  INFO -- : 0:  pry (0.9.12.4) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@veggies/specifications/pry-0.9.12.4.gemspec
+I, [2014-01-19T20:41:17.118923 #49068]  INFO -- : 0:  rack (1.5.2) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@global/specifications/rack-1.5.2.gemspec
+I, [2014-01-19T20:41:17.119226 #49068]  INFO -- : 0:  rack-protection (1.5.1) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@veggies/specifications/rack-protection-1.5.1.gemspec
+I, [2014-01-19T20:41:17.119550 #49068]  INFO -- : 0:  tilt (1.4.1) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@global/specifications/tilt-1.4.1.gemspec
+I, [2014-01-19T20:41:17.119878 #49068]  INFO -- : 0:  sinatra (1.4.4) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@veggies/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-19T20:41:17.120197 #49068]  INFO -- : 0:  bundler (1.5.1) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
