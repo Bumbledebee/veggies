@@ -1,3 +1,2 @@
-require './veggies'
-require 'pry-remote'
+require './chinese'
 run Sinatra::Application

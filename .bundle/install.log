@@ -40,3 +40,8 @@ I, [2014-01-19T20:41:17.119226 #49068]  INFO -- : 0:  rack-protection (1.5.1) fr
 I, [2014-01-19T20:41:17.119550 #49068]  INFO -- : 0:  tilt (1.4.1) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@global/specifications/tilt-1.4.1.gemspec
 I, [2014-01-19T20:41:17.119878 #49068]  INFO -- : 0:  sinatra (1.4.4) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@veggies/specifications/sinatra-1.4.4.gemspec
 I, [2014-01-19T20:41:17.120197 #49068]  INFO -- : 0:  bundler (1.5.1) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-19T21:39:52.509874 #50035]  INFO -- : 0:  rack (1.5.2) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@global/specifications/rack-1.5.2.gemspec
+I, [2014-01-19T21:39:52.510270 #50035]  INFO -- : 0:  rack-protection (1.5.1) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@veggies/specifications/rack-protection-1.5.1.gemspec
+I, [2014-01-19T21:39:52.510628 #50035]  INFO -- : 0:  tilt (1.4.1) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@global/specifications/tilt-1.4.1.gemspec
+I, [2014-01-19T21:39:52.510937 #50035]  INFO -- : 0:  sinatra (1.4.4) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@veggies/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-19T21:39:52.511295 #50035]  INFO -- : 0:  bundler (1.5.1) from /Users/deborablass/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
